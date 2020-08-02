@@ -1,4 +1,4 @@
-setwd("C:/Users/Peilin Yang/Desktop/Harvard Research Project/R/regionResearchMethods/Ch4_R")
+setwd("~")
 library(spdep)
 gal <- read.gal("Province31.gal")
 gwt <- read.gwt2nb("Province31.gwt")
